@@ -67,6 +67,31 @@ Displays Good Morning, Good Afternoon, or Good Evening according to system time.
 
 ---
 
+# Screenshots
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## PDF Upload
+
+![PDF Upload](screenshots/upload.png)
+
+---
+
+## Chat Interface
+
+![Chat Interface](screenshots/chat.png)
+
+---
+
+## Chat History Sidebar
+
+![Sidebar](screenshots/sidebar.png)
+
+
 # Tech Stack
 
 | Technology                           | Purpose                               |
