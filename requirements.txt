@@ -1,0 +1,11 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-huggingface==0.1.2
+langchain-mistralai==0.2.10
+
+sentence-transformers
+faiss-cpu
+pypdf
+
+streamlit
+# python-dotenv
